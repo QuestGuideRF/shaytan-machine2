@@ -1,0 +1,182 @@
+{
+    "class_name": "11А",
+    "export_date": "2025-12-14 19:55:43",
+    "students": [
+        {
+            "number": 1,
+            "first_name": "Алисафа",
+            "last_name": "А.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 2,
+            "first_name": "Александр",
+            "last_name": "Б.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 3,
+            "first_name": "Артем",
+            "last_name": "Б.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 4,
+            "first_name": "Георгий",
+            "last_name": "Б.",
+            "priority": 1,
+            "total_selections": 1,
+            "last_selection": "2025-12-14 19:55:13"
+        },
+        {
+            "number": 5,
+            "first_name": "Роман",
+            "last_name": "Б.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 6,
+            "first_name": "Дмитрий",
+            "last_name": "Г.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 7,
+            "first_name": "Вячеслав",
+            "last_name": "Д.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 8,
+            "first_name": "Даниил",
+            "last_name": "Д.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 9,
+            "first_name": "Дарий",
+            "last_name": "Д.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 10,
+            "first_name": "Иван",
+            "last_name": "Д.",
+            "priority": 1,
+            "total_selections": 1,
+            "last_selection": "2025-12-14 19:55:20"
+        },
+        {
+            "number": 11,
+            "first_name": "Ярослав",
+            "last_name": "Д.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 12,
+            "first_name": "Полина",
+            "last_name": "Е.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 13,
+            "first_name": "Дарья",
+            "last_name": "Ж.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 14,
+            "first_name": "Илья",
+            "last_name": "И.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 15,
+            "first_name": "Андрей",
+            "last_name": "К.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 16,
+            "first_name": "Антон",
+            "last_name": "К.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 17,
+            "first_name": "Михаил",
+            "last_name": "К.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 18,
+            "first_name": "Михаил",
+            "last_name": "Л.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 19,
+            "first_name": "Елизавета",
+            "last_name": "П.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 20,
+            "first_name": "Арман",
+            "last_name": "С.",
+            "priority": 1,
+            "total_selections": 1,
+            "last_selection": "2025-12-14 19:55:22"
+        },
+        {
+            "number": 21,
+            "first_name": "Борис",
+            "last_name": "С.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        },
+        {
+            "number": 23,
+            "first_name": "Александр",
+            "last_name": "Ш.",
+            "priority": 1,
+            "total_selections": 0,
+            "last_selection": null
+        }
+    ]
+}
